@@ -2,7 +2,8 @@
 
 Group Members: Alagammai Lavanya Muthiah, CeCe Liu, Alex Liu, Yahan Yang, Akksharvan Senthilkumar\
 Report: [COMP560_Final_Report.pdf](https://github.com/user-attachments/files/23664419/COMP560_Final_Report.pdf)\
-Presentation: [COMP560_Final_Presentation](https://docs.google.com/presentation/d/10LfA8x3FPNKw0xxLna7sYwLJAdEWy8eIHkeYCSSTGQs/edit?usp=sharing)
+Presentation: [COMP560_Final_Presentation](https://docs.google.com/presentation/d/10LfA8x3FPNKw0xxLna7sYwLJAdEWy8eIHkeYCSSTGQs/edit?usp=sharing)\
+Data: [Dataset](https://www.kaggle.com/datasets/alejopaullier/new-york-city-weather-data-2019)
 
 ***
 
